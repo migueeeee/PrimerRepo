@@ -1,0 +1,71 @@
+form{
+    
+    width: 50%;
+    margin: auto;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    
+}
+form h3{
+    text-align: center;
+    font-size: 30px;
+    
+}
+form h1{
+    text-align: center;
+    font-size: 50px;
+}
+    
+
+#boton{
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(75, 237, 75);
+    font-size: 40px;
+    color: white;
+    border-radius:white;
+    cursor: pointer;
+}
+form textarea{
+    width: 100%;
+    box-sizing: border-box;
+    height: 50%;
+    font-size: 35px;
+}
+.contenedor-inputs{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+.input48{
+
+    width: 48%;
+    box-sizing: border-box;
+    justify-content: space-between;
+    
+    
+}
+input{
+    
+    margin-bottom: 15px;
+    padding: 5px;
+    font-size: 16px;
+}
+form .form-top{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+ #loco{
+    color: rgba(0, 0, 0, 0.4);
+}
+form p{
+    font-size: 15px;
+}
+
